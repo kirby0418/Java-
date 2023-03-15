@@ -1,4 +1,4 @@
-import java.util.*; //1. import¹® Ãß°¡
+import java.util.*; //1. importÂ¹Â® ÃƒÃŸÂ°Â¡
 public class ScanfEx1 {
 
 	public static void main(String[] args) {
@@ -10,7 +10,7 @@ public class ScanfEx1 {
 //		System.out.println(num);
 //		System.out.println(num_2);
 		
-		String input = scanner.nextLine(); //line´ÜÀ§·Î ÀÔ·Â¹Þ±â
+		String input = scanner.nextLine(); //lineë‹¨ìœ„ë¡œ ìž…ë ¥ë°›ê¸°
 		int num_3 = Integer.parseInt(input);
 		System.out.println(num_3);
 	}
